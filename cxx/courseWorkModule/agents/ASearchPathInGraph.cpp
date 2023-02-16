@@ -9,6 +9,7 @@
 #include <sc-agents-common/utils/SetOperationsUtils.hpp>
 
 #include <queue>
+#include <limits.h>
 
 #include "ASearchPathInGraph.hpp"
 
